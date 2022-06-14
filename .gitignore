@@ -10,6 +10,7 @@
 /.vscode
 
 /bertModels/**
-/bertTokenizers/**
+/bertTokenizers/
+!.gitignore
 
 
