@@ -1,0 +1,15 @@
+
+
+#database dosyaları
+*.db
+
+
+#folders
+
+/__pycache__
+/.vscode
+
+/bertModels
+/bertTokenizers
+
+
